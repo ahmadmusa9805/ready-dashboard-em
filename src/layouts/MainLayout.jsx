@@ -13,7 +13,7 @@ const MainLayout = () => {
         <div className="">
             {/* in the layout bg color is setup for not to show the animation delay make sure the menu color and this color are same */}
             <Layout className="">
-                <Sidebar className=' ' collapsed={collapsed} ></Sidebar>
+                <Sidebar className='' collapsed={collapsed} ></Sidebar>
                 <Layout
                     style={{
                         marginLeft: collapsed ? 80 : 250,

@@ -9,7 +9,7 @@ export const mainTheme = {
             itemColor: "#1c4587",
             itemSelectedBg: "#1c4587",
             // itemActiveBg: "#1c4587",
-            "itemHoverColor": "#1c4587",
+            itemHoverColor: "#1c4587",
             // itemHoverBg: "#1c4587",
             subMenuItemBg: "",
             itemBorderRadius: 5,
